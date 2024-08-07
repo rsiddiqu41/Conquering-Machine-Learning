@@ -15,7 +15,7 @@ This series will be broken down into two components: **Concepts** and **Code**
 
 **Concepts** will cover all the theory and math behind the machine learning algorithms we discuss.
 
-**Code** is where we will actually start building our own models and testing and deploying them. For this series, I will use [Python 3](https://www.python.org/) and [PyTorch](https://pytorch.org/) (a machine learning framework) to run and test different types of algorithms. I will also provide any datasets I use for training and testing our models. Later on, I will use (AWS Sagemaker)[https://aws.amazon.com/sagemaker/] to build, train, test and deploy our models.
+**Code** is where we will actually start building our own models and testing and deploying them. For this series, I will use [Python 3](https://www.python.org/) and [PyTorch](https://pytorch.org/) (a machine learning framework) to run and test different types of algorithms. I will also provide any datasets I use for training and testing our models. Later on, I will use [AWS Sagemaker](https://aws.amazon.com/sagemaker/) to build, train, test and deploy our models.
 
 ### Notes
 
